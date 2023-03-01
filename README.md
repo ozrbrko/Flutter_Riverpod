@@ -1,4 +1,4 @@
-# good_literature_app
+# Riverpod
 
 A new Flutter project.
 
